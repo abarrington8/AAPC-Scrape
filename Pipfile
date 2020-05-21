@@ -9,7 +9,6 @@ jupyter = "*"
 requests = "*"
 pandas = "*"
 lxml = "*"
-openpyxl = "*"
 
 [dev-packages]
 
